@@ -1,3 +1,13 @@
 Deze repo heeft testclasses voor volgende userstory:
+Door Lennert Nowak en Thomas Van Gansen
 
-*vul hier de userstory in*
+Story 4 logout
+
+As a user
+I want to logout
+so that nobody can pretend to be me
+
+testen:
+proberen uit te loggen
+als je de page refreshed blijf je ingelogd en kan je je uitloggen
+als je naar een andere page gaat en terug blijf je ingelog en kan je je uitloggen
